@@ -9,6 +9,11 @@ projects you choose instead.
 
 > Status: **idea / RFC.** No code yet. Feedback wanted, see the Discussions tab.
 
+## Goal
+
+Help **vibe-coded and AI-friendly open-source projects** move faster, using capacity that
+would otherwise go unused, instead of handing it to the big AI companies for free.
+
 ## Concept
 
 - Runs **locally** with **your own** login or API key. No credential sharing, no pooled accounts.
