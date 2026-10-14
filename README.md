@@ -1,10 +1,10 @@
-# Resttoken
+# LeftoverLabs
 
 **Idea: donate your leftover AI subscription capacity to open source.**
 
 Most of us pay for Claude, ChatGPT or similar and never hit the weekly limit.
 That unused capacity simply expires, which is effectively a gift to the AI company.
-Resttoken is a proposal for a small local tool that puts it to use for open-source
+LeftoverLabs is a proposal for a small local tool that puts it to use for open-source
 projects you choose instead.
 
 > Status: **idea / RFC.** No code yet. Feedback wanted, see the Discussions tab.
